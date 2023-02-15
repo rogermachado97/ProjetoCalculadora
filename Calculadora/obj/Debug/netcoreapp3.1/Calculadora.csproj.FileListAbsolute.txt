@@ -12,3 +12,17 @@ C:\Repositórios\Projetos\Projetos em CSharp\CalculadoraPrincipal\Calculadora\ob
 C:\Repositórios\Projetos\Projetos em CSharp\CalculadoraPrincipal\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
 C:\Repositórios\Projetos\Projetos em CSharp\CalculadoraPrincipal\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
 C:\Repositórios\Projetos\Projetos em CSharp\CalculadoraPrincipal\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
+C:\Repositórios\Projetos\Projetos em CSharp\ProjetoCalculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\Repositórios\Projetos\Projetos em CSharp\ProjetoCalculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Repositórios\Projetos\Projetos em CSharp\ProjetoCalculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\Repositórios\Projetos\Projetos em CSharp\ProjetoCalculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\Repositórios\Projetos\Projetos em CSharp\ProjetoCalculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Repositórios\Projetos\Projetos em CSharp\ProjetoCalculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Repositórios\Projetos\Projetos em CSharp\ProjetoCalculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.AssemblyReference.cache
+C:\Repositórios\Projetos\Projetos em CSharp\ProjetoCalculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositórios\Projetos\Projetos em CSharp\ProjetoCalculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Repositórios\Projetos\Projetos em CSharp\ProjetoCalculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Repositórios\Projetos\Projetos em CSharp\ProjetoCalculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Repositórios\Projetos\Projetos em CSharp\ProjetoCalculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Repositórios\Projetos\Projetos em CSharp\ProjetoCalculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Repositórios\Projetos\Projetos em CSharp\ProjetoCalculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache

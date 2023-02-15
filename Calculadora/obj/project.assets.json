@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repositórios\\Projetos\\Projetos em CSharp\\CalculadoraPrincipal\\Calculadora\\Calculadora.csproj",
+      "projectUniqueName": "C:\\Repositórios\\Projetos\\Projetos em CSharp\\ProjetoCalculadora\\Calculadora\\Calculadora.csproj",
       "projectName": "Calculadora",
-      "projectPath": "C:\\Repositórios\\Projetos\\Projetos em CSharp\\CalculadoraPrincipal\\Calculadora\\Calculadora.csproj",
+      "projectPath": "C:\\Repositórios\\Projetos\\Projetos em CSharp\\ProjetoCalculadora\\Calculadora\\Calculadora.csproj",
       "packagesPath": "C:\\Users\\roger\\.nuget\\packages\\",
-      "outputPath": "C:\\Repositórios\\Projetos\\Projetos em CSharp\\CalculadoraPrincipal\\Calculadora\\obj\\",
+      "outputPath": "C:\\Repositórios\\Projetos\\Projetos em CSharp\\ProjetoCalculadora\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

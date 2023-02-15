@@ -20,6 +20,13 @@ namespace Calculadora
 
             int operacao = int.Parse(Console.ReadLine());
 
+            if(operacao >= 6)
+            {
+                Console.WriteLine("Opção Inválida");
+
+                return;
+            }
+
             //Aqui começa o bloco de comando de porcentagem
 
             while (operacao == 1)
@@ -69,47 +76,52 @@ namespace Calculadora
             {
                 case 2:
 
-                    {
+                    
 
                         resultado = valor1 + valor2;
 
                         Console.WriteLine("O resultado da adição é: "+ resultado);
 
-                        return;
-                    }
+                        break;
+                    
 
                 case 3:
 
-                    {
+                    
                         resultado = valor1 - valor2;
 
                         Console.WriteLine("O resultado da subtração é: " + resultado);
 
-                        return;
+                        break;
 
-                    }
+                    
 
                 case 4:
 
-                    {
+                    
                         resultado = valor1 / valor2;
 
                         Console.WriteLine("O resultado da divisão é: " + resultado);
 
-                        return;
+                        break;
 
-                    }
+                    
 
                 case 5:
 
-                    {
+                    
                         resultado = valor1 * valor2;
 
                         Console.WriteLine("O resultado da multiplacação é: " + resultado);
 
-                        return;
+                        break;
 
-                    }
+
+
+                default:
+
+                        Console.WriteLine("Opção Inválida");
+                        break;
 
                 //Aqui termina o bloco de comando das 4 operações fundamentais
 
