@@ -117,12 +117,6 @@ namespace Calculadora
                         break;
 
 
-
-                default:
-
-                        Console.WriteLine("Opção Inválida");
-                        break;
-
                 //Aqui termina o bloco de comando das 4 operações fundamentais
 
 
